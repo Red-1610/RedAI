@@ -1,0 +1,3 @@
+*.css linguist-vendored
+frontend/** linguist-documentation=false
+frontend/RED/**/*.css linguist-vendored
